@@ -1,0 +1,11 @@
+/* @import "tailwindcss";
+@plugin "daisyui";
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+} */
+
+@import "tailwindcss";
+@plugin "daisyui";
