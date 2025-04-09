@@ -1,8 +1,8 @@
 import React from "react";
 
-const Navbar = () => {
+const Navbar = ({ selectedProduct, price }) => {
   return (
-    <div className="max-w-11/12 mx-auto">
+    <div className="md:max-w-11/12 mx-auto">
       <div className="navbar bg-base-100 shadow-sm">
         <div className="navbar-start">
           <div className="dropdown">
@@ -32,17 +32,22 @@ const Navbar = () => {
               </li>
               <li>
                 <a>Product</a>
-                <ul className="p-2">
+                {/* <ul className="p-2">
                   <li>
                     <a>Product</a>
                   </li>
                   <li>
-                    <a>Cart</a>
+                    <a>Cart {selectedProduct}</a>
                   </li>
-                </ul>
+                </ul> */}
               </li>
               <li>
-                <a>Cart</a>
+                <a>
+                  Cart{" "}
+                  <span className="font-semibold text-sky-500">
+                    {selectedProduct}
+                  </span>
+                </a>
               </li>
             </ul>
           </div>
@@ -59,24 +64,29 @@ const Navbar = () => {
             <li>
               <details>
                 <summary>Product</summary>
-                <ul className="p-2">
+                {/* <ul className="p-2">
                   <li>
                     <a>Product</a>
                   </li>
                   <li>
-                    <a>Cart</a>
+                    <a>Cart {selectedProduct}</a>
                   </li>
-                </ul>
+                </ul> */}
               </details>
             </li>
             <li>
-              <a>Cart</a>
+              <a>
+                Cart{" "}
+                <span className="font-semibold text-sky-500">
+                  {selectedProduct}
+                </span>
+              </a>
             </li>
           </ul>
         </div>
         <div className="navbar-end">
-          <div className="mr-8">
-            <p>$200</p>
+          <div className="mr-8 font-semibold text-sky-500">
+            <p>$ {price}</p>
           </div>
           <div className="dropdown dropdown-end">
             <div

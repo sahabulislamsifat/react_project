@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Picun B8 Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 39.99,
+        "inStock": true,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61D4Z3yKPAL._AC_SL1500_.jpg",
+        "description": "Wireless over-ear headphones with 40mm drivers and 3 EQ modes for high-definition sound."
+    },
+    {
+        "id": 2,
+        "name": "Leather Office Chair",
+        "category": "Furniture",
+        "price": 129.99,
+        "inStock": true,
+        "rating": 4.6,
+        "image": "https://cubicdesign.com.bd/wp-content/uploads/2024/03/Office-Chair-04-jpg.webp",
+        "description": "Ergonomic PU leather office chair with adjustable height and 360° swivel."
+    },
+    {
+        "id": 3,
+        "name": "Hydro Flask 32 oz Wide Mouth",
+        "category": "Kitchen",
+        "price": 39.95,
+        "inStock": true,
+        "rating": 4.8,
+        "image": "https://i1.adis.ws/i/jpl/ti_EATVC9TI0533_c?w=1000&h=1000",
+        "description": "Insulated stainless steel water bottle that keeps beverages cold up to 24 hours and hot up to 12 hours."
+    },
+    {
+        "id": 4,
+        "name": "Redragon Wireless Gaming Mouse",
+        "category": "Electronics",
+        "price": 24.99,
+        "inStock": true,
+        "rating": 4.5,
+        "image": "https://www.ryans.com/storage/products/main/redragon-storm-pro-m808-ks-rgb-wireless-dual-21703136345.webp",
+        "description": "Wireless gaming mouse with 8000 DPI, RGB backlighting, and programmable buttons."
+    },
+    {
+        "id": 5,
+        "name": "Eco-Friendly Yoga Mat",
+        "category": "Fitness",
+        "price": 22.0,
+        "inStock": true,
+        "rating": 4.2,
+        "image": "https://www.medistorebd.com/wp-content/uploads/2024/01/yoga.webp",
+        "description": "Non-slip, eco-friendly yoga mat with 1/4 inch thickness for optimal comfort."
+    },
+    {
+        "id": 6,
+        "name": "Nike Men's Running Shoes",
+        "category": "Footwear",
+        "price": 54.99,
+        "inStock": false,
+        "rating": 4.5,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/88c35e4e-9a89-4ced-8247-c194da41b173/NIKE+VOMERO+18.png",
+        "description": "Lightweight and breathable running shoes designed for optimal performance."
+    },
+    {
+        "id": 7,
+        "name": "INIU Portable Charger 10000mAh",
+        "category": "Electronics",
+        "price": 18.75,
+        "inStock": true,
+        "rating": 4.6,
+        "image": "https://ae01.alicdn.com/kf/S93c3e28c61844748abbbc65c09439350G.jpg",
+        "description": "Slimmest 10000mAh power bank with high-speed charging and flashlight."
+    },
+    {
+        "id": 8,
+        "name": "MONITO Ceramic Coffee Mug Set",
+        "category": "Kitchen",
+        "price": 27.99,
+        "inStock": true,
+        "rating": 4.4,
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b152aed2-a486-4803-afd4-9ea6b4d5675e.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+        "description": "Set of 4 large 16oz ceramic mugs, microwave and dishwasher safe."
+    },
+    {
+        "id": 9,
+        "name": "DAYBETTER Smart Light Bulbs",
+        "category": "Home",
+        "price": 12.49,
+        "inStock": false,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/714GSJ2BsbL._AC_SL1500_.jpg",
+        "description": "Smart LED bulbs compatible with Alexa and Google Home, featuring RGB color changing and music sync."
+    },
+    {
+        "id": 10,
+        "name": "tomtoc Travel Backpack 40L",
+        "category": "Travel",
+        "price": 47.99,
+        "inStock": true,
+        "rating": 4.6,
+        "image": "https://cdn.packhacker.com/2023/03/34bef1c8-tomtoc-navigator-a82-travel-laptop-backpack-40l-side.jpg",
+        "description": "TSA-friendly, flight-approved carry-on backpack with water-resistant material and multiple compartments."
+    }
+]
